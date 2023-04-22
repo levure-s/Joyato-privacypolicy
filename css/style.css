@@ -1,0 +1,24 @@
+header,
+footer {
+  padding: 1em;
+  text-align: center;
+}
+
+.inner {
+  max-width: 1000px;
+  margin: auto;
+}
+.main h2,
+.main p {
+  padding-bottom: 0.5em;
+}
+.main p {
+  padding-left: 0.5em;
+}
+.main li {
+  padding-bottom: 1em;
+  list-style: none;
+}
+.title {
+  font-size: 1.5em;
+}
